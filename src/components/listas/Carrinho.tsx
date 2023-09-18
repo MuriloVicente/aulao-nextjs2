@@ -6,6 +6,8 @@ interface CarrinhoProps {
 
 export default function Carrinho(props: CarrinhoProps) {
     return (
-
+        <div>
+            
+        </div>
     )
 }
